@@ -65,7 +65,7 @@ function enviar(e) {
   let botones = `
 <article class="row my-2">
   <div class="">
-    <button type="button" class="btn btn-warning container d-grid col-6 mb-1" onclick="mostrarInfo()">Info</button>
+    <button type="button" class="btn btn-warning container d-grid col-6 mb-1" onclick="mostrarInfo()">Informacion Personal</button>
   </div>
   <div class="">
     <button type="button" class="btn btn-success container d-grid col-6 mb-1" onclick="mostrarGeneracion()">Generacion</button>
